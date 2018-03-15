@@ -1,4 +1,4 @@
-My initial commit of app built using React Native and JSX  
+My own version of the Dublin Bus app built using JSX and React Native  
 
 Initially followed tutorial found here: https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript adhering by the provided license
 
