@@ -1,5 +1,6 @@
 My initial commit of app built using React Native and JSX  
-Initially followed tutorial found here: https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript  
+
+Initially followed tutorial found here: https://www.raywenderlich.com/178012/react-native-tutorial-building-android-apps-javascript adhering by the provided license
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
